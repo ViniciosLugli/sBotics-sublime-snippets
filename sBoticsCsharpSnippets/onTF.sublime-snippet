@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[onTF(${1:direita}, ${2:esquerda});]]></content>
+	<tabTrigger>onTF</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

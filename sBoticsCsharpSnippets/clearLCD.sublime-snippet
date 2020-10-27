@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[clearLCD();]]></content>
+	<tabTrigger>clearLCD</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

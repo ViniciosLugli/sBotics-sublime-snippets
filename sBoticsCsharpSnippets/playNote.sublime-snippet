@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[playNote(${1:buzzer}, ${2:nota}, ${3:milliseconds});]]></content>
+	<tabTrigger>playNote</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[changeWave(${1:onda});]]></content>
+	<tabTrigger>changeWave</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

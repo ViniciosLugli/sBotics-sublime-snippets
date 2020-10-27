@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[playSound(${1:buzzer}, ${2:freq}, ${3:milliseconds}, ${4:onda});]]></content>
+	<tabTrigger>playSound</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

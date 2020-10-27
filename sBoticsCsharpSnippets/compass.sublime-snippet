@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[compass();]]></content>
+	<tabTrigger>compass</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

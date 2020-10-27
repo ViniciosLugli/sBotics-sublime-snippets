@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[stopPainting();]]></content>
+	<tabTrigger>stopPainting</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

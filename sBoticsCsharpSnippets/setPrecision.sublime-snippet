@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[setPrecision(${1:val});]]></content>
+	<tabTrigger>setPrecision</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

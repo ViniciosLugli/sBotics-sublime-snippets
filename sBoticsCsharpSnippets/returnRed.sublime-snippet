@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[returnRed(${1:sensor});]]></content>
+	<tabTrigger>returnRed</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

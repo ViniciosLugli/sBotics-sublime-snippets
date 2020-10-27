@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[inclination();]]></content>
+	<tabTrigger>inclination</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

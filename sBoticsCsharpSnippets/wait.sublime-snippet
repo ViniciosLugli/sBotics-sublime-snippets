@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[wait(${1:milliseconds});]]></content>
+	<tabTrigger>wait</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

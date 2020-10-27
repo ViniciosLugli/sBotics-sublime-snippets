@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[clearLCDLine(${1:linha});]]></content>
+	<tabTrigger>clearLCDLine</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

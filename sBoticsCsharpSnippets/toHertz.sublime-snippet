@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[toHertz(${1:val});]]></content>
+	<tabTrigger>toHertz</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[toFrequency(${1:val});]]></content>
+	<tabTrigger>toFrequency</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

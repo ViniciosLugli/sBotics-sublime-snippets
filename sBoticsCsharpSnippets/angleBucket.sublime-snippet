@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[angleBucket();]]></content>
+	<tabTrigger>angleBucket</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

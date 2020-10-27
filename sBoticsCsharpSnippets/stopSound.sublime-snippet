@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[stopSound();]]></content>
+	<tabTrigger>stopSound</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

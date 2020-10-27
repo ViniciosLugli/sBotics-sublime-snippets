@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[openActuator();]]></content>
+	<tabTrigger>openActuator</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

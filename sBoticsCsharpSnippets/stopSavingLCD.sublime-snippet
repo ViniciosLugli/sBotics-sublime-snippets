@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[stopSavingLCD();]]></content>
+	<tabTrigger>stopSavingLCD</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

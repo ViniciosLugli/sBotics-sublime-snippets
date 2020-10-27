@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[onTFLeft(${1:vel});]]></content>
+	<tabTrigger>onTFLeft</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

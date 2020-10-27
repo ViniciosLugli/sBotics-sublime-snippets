@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[actuatorUp(${1:milliseconds});]]></content>
+	<tabTrigger>actuatorUp</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

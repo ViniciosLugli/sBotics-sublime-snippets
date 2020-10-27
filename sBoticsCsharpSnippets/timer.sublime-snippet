@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[timer();]]></content>
+	<tabTrigger>timer</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[printLCD(${1:linha}, ${2:msg});]]></content>
+	<tabTrigger>printLCD</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

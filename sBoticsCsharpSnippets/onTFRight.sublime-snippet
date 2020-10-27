@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[onTFRight(${1:vel});]]></content>
+	<tabTrigger>onTFRight</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

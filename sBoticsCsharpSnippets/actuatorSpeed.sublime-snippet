@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[actuatorSpeed(${1:vel});]]></content>
+	<tabTrigger>actuatorSpeed</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

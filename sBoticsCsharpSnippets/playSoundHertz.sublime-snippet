@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[playSoundHertz(${1:buzzer}, ${2:freq}, ${3:milliseconds}, ${4:onda});]]></content>
+	<tabTrigger>playSoundHertz</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[colorSens(${1:val});]]></content>
+	<tabTrigger>colorSens</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

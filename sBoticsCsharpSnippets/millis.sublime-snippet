@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[millis();]]></content>
+	<tabTrigger>millis</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

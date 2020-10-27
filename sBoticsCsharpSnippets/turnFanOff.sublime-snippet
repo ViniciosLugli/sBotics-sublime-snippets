@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[turnFanOff();]]></content>
+	<tabTrigger>turnFanOff</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

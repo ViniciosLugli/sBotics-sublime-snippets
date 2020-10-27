@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[writeText(${1:string});]]></content>
+	<tabTrigger>writeText</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

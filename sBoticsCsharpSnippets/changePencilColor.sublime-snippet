@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[changePencilColor(${1:cor});]]></content>
+	<tabTrigger>changePencilColor</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

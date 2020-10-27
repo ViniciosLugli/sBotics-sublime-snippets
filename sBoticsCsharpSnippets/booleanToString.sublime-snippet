@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[booleanToString(${1:bool});]]></content>
+	<tabTrigger>booleanToString</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

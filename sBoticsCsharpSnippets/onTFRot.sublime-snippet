@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[onTFRot(${1:vel}, ${2:angulo});]]></content>
+	<tabTrigger>onTFRot</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

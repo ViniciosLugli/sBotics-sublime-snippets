@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[turnLedOn(${1: COR});]]></content>
+	<tabTrigger>turnLedOn</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

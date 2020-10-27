@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[angleActuator();]]></content>
+	<tabTrigger>angleActuator</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>
