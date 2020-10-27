@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[returnGreen(${1:sensor});]]></content>
+	<content><![CDATA[returnGreen(${1:sensor})]]></content>
 	<tabTrigger>returnGreen</tabTrigger>
 	<scope>source.cs</scope>
 </snippet>

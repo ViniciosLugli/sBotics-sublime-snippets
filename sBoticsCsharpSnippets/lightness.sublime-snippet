@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[lightness(${1:sensor});]]></content>
+	<content><![CDATA[lightness(${1:sensor})]]></content>
 	<tabTrigger>lightness</tabTrigger>
 	<scope>source.cs</scope>
 </snippet>

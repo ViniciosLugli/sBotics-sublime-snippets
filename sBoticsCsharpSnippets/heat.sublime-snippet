@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[heat();]]></content>
+	<content><![CDATA[heat()]]></content>
 	<tabTrigger>heat</tabTrigger>
 	<scope>source.cs</scope>
 </snippet>

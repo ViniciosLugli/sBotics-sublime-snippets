@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[distance(${1:sensor});]]></content>
+	<content><![CDATA[distance(${1:sensor})]]></content>
 	<tabTrigger>distance</tabTrigger>
 	<scope>source.cs</scope>
 </snippet>

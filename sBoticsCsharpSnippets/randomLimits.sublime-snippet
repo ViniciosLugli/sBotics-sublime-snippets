@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[randomLimits(${1:min}, ${2:max});]]></content>
+	<content><![CDATA[randomLimits(${1:min}, ${2:max})]]></content>
 	<tabTrigger>randomLimits</tabTrigger>
 	<scope>source.cs</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[getonTFRight();]]></content>
+	<content><![CDATA[getonTFRight()]]></content>
 	<tabTrigger>getonTFRight</tabTrigger>
 	<scope>source.cs</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[compass();]]></content>
+	<content><![CDATA[compass()]]></content>
 	<tabTrigger>compass</tabTrigger>
 	<scope>source.cs</scope>
 </snippet>
